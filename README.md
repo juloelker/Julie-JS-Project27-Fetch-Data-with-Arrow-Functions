@@ -1,2 +1,2 @@
 # Julie-JS-Project27-Fetch-Data-with-Arrow-Functions
-Basic exercise in fetching data while working with arrow functions
+This is a basic exercise in fetching data while working with arrow functions.  I worked through the Traversy Media Course, Modern JavaScript from the Beginning, but I enhanced the code I created from this lesson.  I added a heading for each of the three types of data retrieved. It's a small enhancement. I also wrote the code without watching beforehand how Brad did it. 
